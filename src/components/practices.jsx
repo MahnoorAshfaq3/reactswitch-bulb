@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import bulbOn from '../assets/images (5).jpeg'
 import bulbOff from '../assets/images (4).jpeg'
-import lightOn from '../assets/bulb-On.jpg'
-import lightOff from '../assets/bulb-Off.jpg'
+import lightOn from '../assets/Bulb-On.jpg'
+import lightOff from '../assets/Bulb-Off.jpg'
 import '../App.css'
 
 function App1() {
